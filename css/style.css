@@ -90,6 +90,8 @@ color: yellow;
 }
 .button-bacck a{
 	color: purple;
+	width:200px ;
+	height:100px ;
 }
 button {
 	border-radius: 4px;
@@ -97,9 +99,11 @@ button {
 	border: none;
 	color: #a308fd;
 	text-align: center;
-	font-size: 28px;
-	padding: 20px;
+	font-size: 40px;
+	padding: 0px;
+	margin: 5px;
 	width: 200px;
+	height: 100px;
 	transition: all 0.5s;
 	cursor: pointer;
 	margin: 5px;
